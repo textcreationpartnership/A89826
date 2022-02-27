@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ansvver to some queries put out by one John Pendarves, in a book, called, Arrowes against Babylon, &amp;c. For the people called, Quakers to answer.</title>
+            <author>Naylor, James, 1617?-1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89826</idno>
+            <idno type="STC">Wing N260</idno>
+            <idno type="STC">Thomason E865_4</idno>
+            <idno type="STC">ESTC R207620</idno>
+            <idno type="EEBO-CITATION">99866661</idno>
+            <idno type="PROQUEST">99866661</idno>
+            <idno type="VID">118939</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89826)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118939)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 131:E865[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ansvver to some queries put out by one John Pendarves, in a book, called, Arrowes against Babylon, &amp;c. For the people called, Quakers to answer.</title>
+                  <author>Naylor, James, 1617?-1660.</author>
+               </titleStmt>
+               <extent>[2], 12, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert, at the Black-spread-Eagle neer the West end of Pauls.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: James Nayler.</note>
+                  <note>A reply to: Pendarves, John.  Arrowes against Babylon.</note>
+                  <note>With a blank final leaf.</note>
+                  <note>Annotation on Thomason copy: "Jan: 25 1655"; also the last number of the imprint date has been marked through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pendarves, John, 1622-1656. --  Arrowes against Babylon.</term>
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+               <term>Clothing and dress --  Moral and religious aspects --  Early works to 1800.</term>
+               <term>Protestantism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118939:1"/>
+            <pb facs="tcp:118939:1" rendition="simple:additions"/>
+            <p>AN ANSWER TO SOME QVERIES Put out by one <hi>John Pendarves,</hi> in a BOOK, called, <hi>Arrowes againſt Babylon, &amp;c.</hi>
+            </p>
+            <p>For the People called, QUAKERS To Anſwer.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Giles Calvert,</hi> at the Black-ſpread-Eagle neer the Weſt end of <hi>Pauls.</hi> 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118939:2"/>
+            <pb n="1" facs="tcp:118939:2"/>
+            <head>AN ANSWER TO SOME QVERIES Put out by one <hi>John Pendarves,</hi> in a BOOK, called, <hi>Arrowes againſt Babilon, &amp;c.</hi>
+            </head>
+            <p>
+               <hi>Query</hi> 1. <hi>WHether are you willing that the depth of your perſwaſion or opinion touching Ieſus Chriſt his being now contained in the Heavens, the raiſing of our dead bodies after naturall death, the tryall of our Spirits and Doctrines according to the Scriptures, ſhould be clearly and openly known and publiſhed?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> What we have revealed in us concerning Jeſus Chriſt, the death and re<g ref="char:EOLhyphen"/>ſurrection, tryals of Spirits and Doctrines, we are willing ſhould be clearly and openly known; Therefore do we publiſh the ſame, as we are commanded, to all Nations; and this is according to Scripture, for which we are oppoſed by you that are in Opinions, Imaginations and Perſwaſions, by your carnall Wiſdome from the Letter, to which the Spiritual knowledge of Chriſt, his Doctrine and reſur<g ref="char:EOLhyphen"/>rection according to the Sciptures, is a myſtery, neither can your depths of falne Wiſdome, Perſwaſions, or Opinions, finde it out, nor try that Spirit which revea<g ref="char:EOLhyphen"/>leth it to the babes, but hideth it from the prudent.</p>
+            <p>
+               <hi>Qu.</hi> 2. <hi>VVhether do you not by many of your ſayings, which admit of a double con<g ref="char:EOLhyphen"/>ſtruction, craftily hide your perſwaſions, in many things, from the ſight of ſome honest people, who take you to hold the ſame truth with Believers in generall, concerning Chriſt, the Scriptures, and the reſurrection of the dead? Do you not endeavour to make them</hi>
+               <pb n="2" facs="tcp:118939:3" rendition="simple:additions"/>believe you hold otherwiſe in ſome things then you do; and is not this diſtimu<g ref="char:EOLhyphen"/>lation at the beſt, or lying, after the manner of <hi>Annanias</hi> and <hi>Saphirah?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> From honeſt people we would hide nothing; therefore to the principle of honeſty (which is the Light of Chriſt in them) we direct them, that with the ſpirit of truth they may be led to know what to believe, and be guided out of all your craftineſs, who under pretence of believers, draw people from the ſpirit to things acted in the fleſh, as thou who in thy book calleth them ſaints, who may be like the moſt vain men in their foolith faſhions, and found too light in the true ballance, ſo much know'ſt thou of a ſaint, what is his weight and like<g ref="char:EOLhyphen"/>neſs to, and ſuch is dſſimulation at the beſt, and knoweſt not a believers truth, nor their Chriſt, nor reſurrection, according to the ſcriptures, who reckon your ſelves under the name of ſaints and believers, but never came ſo far as <hi>Annanias</hi> and <hi>Saphirah,</hi> who owned that Doctrine preached by them that left all and wan<g ref="char:EOLhyphen"/>dered up and down to and fro, and left their carnall relations in obedience to the voice of Chriſt, as is declared in the Scripture, which thou couldſt reproach and ſlander, to be contrary to ſcripture, as in thy fifteen query; and this is worſe than the manner of <hi>Annanias and Saphirah.</hi>
+            </p>
+            <p>
+               <hi>Qu.</hi> 3. <hi>VVhether your ſelves, even all of you, be not men and women of ſinfull fai<g ref="char:EOLhyphen"/>lings and imperfections, as are thoſe godly people you cry down? Doth not the Light with<g ref="char:EOLhyphen"/>in you ſhew you this? if not, tell us who are the perſons amongſt you without their fai<g ref="char:EOLhyphen"/>lings or imperfections, and how came they ſo to be?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> The Light within us thy ſlanderous ſpirit full of confuſion, in ſaying that we cry down godly people, as alſo thy ſignifying them to be God-like who are of ſinful failings and imperfections; ſo thou ſheweſt what thou knoweſt of his likeneſs, and thy ſelf a child of darkneſs; and by him who is no reſpector of per<g ref="char:EOLhyphen"/>ſons, come we to be ſet free from ſinful failings, as by the Light we behold him who is our perfection, ſo are we changed from imperfection into the ſame image, from glory to glory, even by the ſpirit, by which ſpirit we bear witneſs againſt ſin and imperfection, for which we are accuſed to cry down godly people, by ſuch as love their ſin, yet would have the name of godlineſs.</p>
+            <p>
+               <hi>Qu.</hi> 4. <hi>Do you in paſſing your judgements of the Congregations of believers, as well look after thoſe things which are commendable, as thoſe things which are condemnable in their practiſes? do you not over-look the example of Chriſt in this, who in his meſſage to the Church of</hi> Epheſus, <hi>writes in praiſe of the godly things in them,</hi> Rev. 2.2. <hi>and particularly, that they hated the doctrine of the</hi> Nicholaitans, <hi>though withall he repro<g ref="char:EOLhyphen"/>veth them for leaving their first Love; and</hi> Sardis <hi>Church being reproved, ſome few names are accepted? do not you on the contrary cry them down in the generall without any mercie.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> The judgement which we paſs is not ours, but his that ſent us, which is not paſſed upon Churches of believers, but upon the Synagogues of Satan, who
+<pb n="3" facs="tcp:118939:3"/>ſay they are Jews and are not, neither do we thereby judge that which is com<g ref="char:EOLhyphen"/>mendable, but that which covereth the ſerpent under a pretence of religion, and this is not contrary to the example of Chriſt: And whereas thou telleſt of Chur<g ref="char:EOLhyphen"/>ches, and hating the Doctrine of the <hi>Nicholaitans,</hi> when we ſee you leave that Doctrine, and go out to declare againſt it where it is practiſed, as the Miniſters of Chriſt ever did, then is there ſome plea for your names to be excepted, in the mean time be not angry that we cry them down in generall, who are found in that doctrine and <hi>Babyloniſh</hi> worſhip, (though not without mercy to them that come out of it) nor think you to hide your ſelves by crying out of the Prieſts, and your ſelves not come out of the reſt of the relicques; a meaſure, though of a firſt Love there was amongſt you, which you have loſt above all forms in the Nation, and are run into the abominations, and have bowed and conformed to uphold and maintain the relicques of the Papal Prieſthood: And think not pulling off your Ribbans and Laces wil excuſe you, ſo long as you withdraw the ſhoulder from things of greater weight, which muſt all down at <hi>Babylons</hi> fall; though we rejoice to hear ſo much from you of reformation, was it done in the power and obedience of the ſpirit of truth and not of envie, thereby to reproach others whom the Lord hath led out to bear witneſs againſt the reſt of the worlds vani<g ref="char:EOLhyphen"/>ties, pride, and falſe worſhips; but ſeeing you pretend your reformation in this point from the Scriptures, ſearch them over again, and let the Light of Chriſt in your conſciences judge if they be not as large both in precept and example under the Goſpel, for the form of ſound words without partiality to deny reſpect of per<g ref="char:EOLhyphen"/>ſons, to bear witneſs againſt the Idol-worſhip openly where it is performed, as the manner of the Saints was, and is, to the ſuffering the ſpoyling of the goods, yea the loſs of life, rather than to uphold the Image by bowing to it in the leaſt meaſure, or honouring the pride in another, which you know to be of the devill in your ſelves; and much more you ſhal finde in the Scriptures, left as an exam<g ref="char:EOLhyphen"/>ple, wherein the croſs is too heavie for the carnall minde; and for ſhame ceaſe to call your ſelves Churches of Chriſt, further then you can rejoice in their croſs.</p>
+            <p>
+               <hi>Qu.</hi> 5. &amp; 6. <hi>VVhether your declaring againſt inſtrumental Teaching, yet going about divers of you, informing and inſtructing your ſelves and others who are free to hear you, doth not diſcover a groſs contradiction betwenen your profeſſed principles and practiſe, and plainly ſhew that you would have them hear none but you? And whether this be right to ſet them againſt inſtrumental teaching, to bring them to hear your declaring, as ſome of you call your ſpeaking, altering only the name? whether inſtrumental, teaching be un<g ref="char:EOLhyphen"/>ſutable to the new Covenant? if ſo, why did Chriſt, being aſcended, appoint</hi> Paſtors and Teachers, <hi>in the Church, to continue till we all come into the unity of the Faith, &amp;c.</hi> Thus ordaining Miniſters for the work, while work remaineth for the miniſtery, did Chriſt burden his Saints with needleſs appointments?</p>
+            <p>
+               <hi>An.</hi> 5. &amp; 6. Thoſe that went about from place to place, preaching the Goſpel from houſe to houſe, informing others, &amp; inſtructing them to believe in the light, &amp; to wait for the teachings of <hi>Chriſt, &amp;c.</hi> ſuch we do not declare againſt, yet did
+<pb n="4" facs="tcp:118939:4"/>theſe declare againſt ſuch who was falſe Apoſtles, who ſate at home, and crept into houſes, and led them from the ſpirit into carnal Ordinances, thereby kee<g ref="char:EOLhyphen"/>ping them ever learning and laden with ſin; and ſuch (our practiſe plainly ſhews) we would not have people to hear, not do we hereby deny Inſtrumentall, but Traditional Teaching: And you that ſit at home, and reproach them that go about, have little cauſe to boaſt, as though you were out of <hi>Babylon,</hi> who cannot own the form of the Miniſtrie of Chriſt, much leſs do you know the Power: And for thoſe thou telleſt of, who received gifts for the perfecting of the Saints, till they all came to the unity of the Faith; Thou knoweſt them not, nor their Gifts, nor their Work, who ſits at home reproaching them, and in<g ref="char:EOLhyphen"/>cenſing the World againſt them, pleading for ſin and imperfection, which none of them ever did, and ſeeking occaſion againſt them who have received gifts for the perfecting of the Saints, and for the work of the Miniſtry, which thou canſt not endure to hear tel of, ſhewing how little thou knoweſt of the end of that Miniſtry.</p>
+            <p>
+               <hi>Qu.</hi> 7. <hi>VVhether the Scriptures you bring to oppoſe Goſpel Ordinances, do not ſerve only to make void Circumciſion, with other Ordinances of Moſes Law, and to witneſs againſt walking after the tradition of men, with the carnal formal practiſe, or Idoli<g ref="char:EOLhyphen"/>zing of true Gospel Ordinances? all, you ſay, making not at all againſt a spiritual pra<g ref="char:EOLhyphen"/>ctiſe of Church-Ordinances, as breaking bread, and exhorting one another, &amp;c. where<g ref="char:EOLhyphen"/>in the Saints have the foot-ſteps of the ſtock in the primitive times going before them, and the appointment of Chriſt for the continuance of theſe till his coming, which muſt be un<g ref="char:EOLhyphen"/>derſtood of his perſonal coming the ſecond time, be being come in the ſpirit with great glory, when he gave thoſe commands,</hi> 1 Cor. 11.25, 26. Revel. 2.25. Heb. 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.25.</p>
+            <p>
+               <hi>Anſ.</hi> In this Query thou haſt ſufficiently ſhewed thy folly and confuſion; Firſt, in charging us falſly to oppoſe Goſpel Ordinances, and then confeſſing that all we ſay maketh not at all againſt the ſpiritual practiſe of Church-Ordi<g ref="char:EOLhyphen"/>nances: Art not thou aſhamed to charge us with the oppoſing that, which thou confeſſeſt we ſay not a word againſt? Or doſt thou accuſe us for ſpeaking againſt carnal performances? thy bottle muſt be empted of this Darkneſs before thou knoweſt Chriſts appearance, perſonal or ſpiritual, though with the reſt of the dark world, thou art putting the day far off thee, and his appearance whom the Saints waited for, and received, which thou with their words wouldſt put a far off.</p>
+            <p>
+               <hi>Qu.</hi> 8. <hi>VVhether it is not better to wait on God in his good old wayes, recorded in his word, expecting his work to be gradually carried on, as the grouth of a buil<g ref="char:EOLhyphen"/>ding, or of a Plant, or Child, ſo running with patience the spiritual race ſet before us? Or, as the manner of ſome is, to forſake the principles of ſaith (whereof the Saints have had ſo great experience) in hope to ſtart up ſuddenly from a low ſtature, into per<g ref="char:EOLhyphen"/>fection, by embracing a new Doctrine.</hi>
+            </p>
+            <p>
+               <pb n="5" facs="tcp:118939:4" rendition="simple:additions"/>
+               <hi>An.</hi> The good old way thou knoweſt not, by which he carried on his work, neither doſt thou know his word, who would wreſt the Letter to oppoſe it, who art ſet in the ſeat of darkneſs, condemning them who leave all to follow Chriſt, to be con<g ref="char:EOLhyphen"/>trary to the Scriptures; ſo much knoweſt thou of the ſpiritual race, or the princi<g ref="char:EOLhyphen"/>ple of faith, or the experience the Saints have of it, who ſheweth thy experience and knowledg of a ſaints life, who calleth them ſaints who are found light, and the moſt vain men in their fooliſh faſhions; and thy faith ſerveth thee to plead againſt a low eſtate to be brought into perfection, reproaching that as new Do<g ref="char:EOLhyphen"/>ctrine, for which end the miniſtry of Chriſt was given, as thy ſelf hath inſtanced in thy ſixt Query, and now calleth it a ſtart-up, ſhewing thy confuſion and envy to perfection.</p>
+            <p>
+               <hi>Qu.</hi> 9. Whether Jeſus Chriſt hath not prayed for thoſe who believe through the word of the Apoſtles, according to <hi>Iohn</hi> 17.20. And if ſo, Whether they are not in a good and ſafe way, who believe accordingly? And whether it be not bet<g ref="char:EOLhyphen"/>ter to credit their teſtimony ſo fully confirmed by the Lord, and acknowledged by the Saints for many generations, than to forgoe that to embrace and follow the ſayings of ſome of your company?</p>
+            <p>
+               <hi>Anſw.</hi> Yea, Chriſt hath prayed for thoſe that believe through the word, and ſuch are in a ſafe way; but what is this to thoſe that have not the word in them, whoſe belief ſtandeth only in the Letter? if ſuch be in a ſafe way, then who is it that is not? Many believes, both <hi>Iohn</hi> and <hi>Iames, Peter</hi> and <hi>Paul,</hi> and the reſt, that what they ſaid was true, which never knew the prayers of Chriſt, the Word, nor that teſtimony by the Lord confirmed, neither do we deſire any who have it to forgoe it, but ſuch as never had it are in little danger to forgoe it, and theſe are ſeen to be them whom thou art encouraging.</p>
+            <p>
+               <hi>Qu.</hi> 10. What is that faith which the Spirit ſpeaks expreſly ſome ſhall depart from in the later days, giving heed to ſeducing ſpirits, and doctrines of Devills, 1 <hi>Tim.</hi> 4.1.</p>
+            <p>
+               <hi>Qu.</hi> 11. Whether that Doctrine, which in ſome is no more, but look to the light within, with a curſe upon diſobedience, and a bleſſing upon obedience thereun<g ref="char:EOLhyphen"/>to, be that glorious Goſpel preached by Chriſt and his Apoſtles, holding forth good news to all people? Or, whether it be not a reviving of the old doctrine of Juſtification by works, wherein the myſterie of iniquitie worketh to darken the grace of God, in juſtifying the ungodly without works freely, and to make void the ſufferings of Chriſt, <hi>Rom.</hi> 3.24. &amp; the 4. chap. 5. <hi>Gal.</hi> 3.1.</p>
+            <p>
+               <hi>Anſ.</hi> That faith was ſpiritual, and the gift of God, which when they had forſaken and made ſhipwrack of, their conſciences became ſeared, yet could they profeſs the Letter of the ſcriptures with great zeal, as hath appeared ever ſince that depar<g ref="char:EOLhyphen"/>ture there ſpoken of, and the ſeducing ſpirits are ſuch as are gone out from with<g ref="char:EOLhyphen"/>in into the world, whither thou art leading, who art reproaching the Light with<g ref="char:EOLhyphen"/>in, as though it was not the Goſpel preached by Chriſt and his Apoſtles, when
+<pb n="6" facs="tcp:118939:5"/>Chriſt ſaith, <hi>I am the Light of the world;</hi> and the kingdome of God is within you; and the Apoſtle ſaith, By the Light that ſhined in their hearts, did they come to the knowledge of the glory of God in the face of Jeſus; <hi>and Chriſt in you the hope of glory;</hi> and this alone is the good news to all people, which the ſeducing ſpirits that are gone into carnal things would lead from, and therefore Chriſt ſaith to his, <hi>go not forth:</hi> and who hath Chriſt the Light in them, with his works, and they in him, here is juſtification by Chriſt alone, which they that do works, and not from Chriſt within, and his Light within, are in the deeds of darkneſs, and ſelf-righteouſneſs, wherein the myſtery of iniquity worketh, to darken the grace of God, and to make void the ſufferings of Chriſt, and the Kingdome of God, and the righteouſneſs thereof, within, the obedience thereof makes free from ſin, and ſo obtains the bleſſing; and this of faith and not of works, though the blind ſeeth it not, who are in their own works and litteral performances; ſuch know little of the power of faith, or the work of righteouſneſs, whereby man is created new in the good works to walk, which are fore-ordained, and to ſuch the everlaſting righteouſneſs is brought in, by which the tranſgreſſion is finiſhed.</p>
+            <p>
+               <hi>Qu.</hi> 12. <hi>VVhether the Light that is in every man doth reveal Jeſus Chriſt as crucifi<g ref="char:EOLhyphen"/>fied for ſin and riſen again? if ſo, How came it to paſs that ſo many ſtrict men amongſt the philoſophers, and</hi> Paul <hi>himſelf walking according to his conſcience before converſi<g ref="char:EOLhyphen"/>on, were ignorant of him?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Though the Light of Chriſt that lighteth every man that cometh in<g ref="char:EOLhyphen"/>to the world, yet it revealeth Chriſt only in ſuch as believe and follow it out of the world, in which Chriſt is not revealed, neither can be, for the world by wiſ<g ref="char:EOLhyphen"/>dome knows him not: And the reaſon why Chriſt crucified for ſin and riſen again was not revealed to the Philoſophers, and to <hi>Saul,</hi> is the ſame in your ſelves in this age, who ſome of you run from a blind zeal in the Letter, others in wild no<g ref="char:EOLhyphen"/>tions, all from your imaginations without the Light of Chriſt, ſo none in that ſtate knoweth Chriſt as you ought to do, who have him not revealed within, for the teſtimonie of Jeſus is the ſpirit of Prophecie, and it is the ſpirit of truth that guideth into all truth, and that which teſtifieth of Jeſus as the truth is in him, which all that have not that knowledge from the ſpirit, are ignorant of him, and ſo taketh that for the Light of the conſcience, which is but your own thoughts and imaginations, and ſo far unlike to reveal Jeſus: And <hi>Saul</hi> was as learned in the Letter, and as zealous for that which he imagined to be the meaning of it, as you are, and yet blinde as to the light in the conſcience, his mad zeal leading him againſt the pricks, as many of you now are, and might ſee a taſte thereof, did you minde the light you are oppoſing.</p>
+            <p>
+               <hi>Qu.</hi> 13 Whether you have not amongſt you many, who preſume to be Maſters, or maſterly Teachers, contrary to that word of Chriſt, <hi>Mat.</hi> 23.10. in the true intent of it? Do they not uſurp authority over the judgment and conſcience of their followers, requiring them to believe and obey what they ſay, without ask<g ref="char:EOLhyphen"/>ing their meaning, and examining their ſayings by the ſcriptures? whereas
+<pb n="7" facs="tcp:118939:5"/>Chriſt expounded his ſayings, as occaſion were offered, and need required, to his Diſciples, and the Bereans are commended for ſearching the Scriptures daylie, whether the things ſpoke by the <hi>Apoſtles</hi> were ſo, <hi>Mat.</hi> 13.18, 19.36, 37, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> This Quaerie is utterly made up of a ly; therefore I return it back into the ſlanderous bottle from whence it came; for againſt the whole <hi>Quaerie</hi> we are witneſſes, and the practiſe of Chriſt is owned, (who is the Lord of the con<g ref="char:EOLhyphen"/>ſcience) the one Teacher, whereby Maſterly Teachers are denied.</p>
+            <p>Qu. 14. <hi>Whether it be not high preſumption and ſpirituall pride, for ſome amongſt you to break Chriſts Commands, and teach men ſo, and to judge (as many do) the ſecrets of mens hearts, and raſhly without knowledg of mens converſations, to affirm that they have not the ſpirit? If the ſpirit of God witneſs with their Spirits (as I doubt not but it doth with divers of them you ſo judge) that they have the Spirit of God, and the work of regeneration witneſsing thereunto, may they not by your bold judgment to the contrary know how to judg of you?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> The Spirit of Chriſt where it is, knoweth it own, neither doth it judge by outward appearance, nor yet without knowledge, by which the Saints have judged the hearts of others, which they knew not themſelves, and that ſpirit is witneſſed; but what ſpirit is that in thee, which accuſeth ſome amongſt us to break Chriſts commands and teach men ſo; not making it appear who they are, and under that pretence would limit the Spirit of the Lord not to judge where it is: This ſheweth little of the work of regeneration, or the Spirits witneſs, but as one afraid that deceit ſhould be diſcovered, and ſo would exclude all judging; where ſhal Chriſt judge, if not in his Saints? which judgment the blinde generation could never own, and yet would be judging others of that whereof thy ſelf art guilty, as thy book doth manifeſt, by which all may know how to judge of thee.</p>
+            <p>Qu. 15. <hi>Whether do you not eſteem the ſayings of ſome amongſt you, of equal authority with the ſayings of God in Scripture; and as readily, or more to be believed, and obeyed, without any enquiry, whether they agree with Scripture or no; even al<g ref="char:EOLhyphen"/>though they plainly contradict the written word? Is it not an
+<pb n="8" facs="tcp:118939:6"/>uſual things with many of you to travel up and down to and fro, far and near to the wearying of your fleſh, and neglecting your relations, in obedience to ſuch voyces or ſayings not warranted by Scripture, but contrary thereunto, yet in many things of this kinde, wherein ſome of you ſeem to glory, the Papiſts themſelves out-ſtrip you, onely they are more modeſt then to go naked; and who hath required theſe things of any of you?</hi>
+            </p>
+            <p>Query 16.</p>
+            <p>
+               <hi>Whether Satan that old Deceiver (who often changes his ſhapes being diſcover'd in many of his old devices) may not now be ex<g ref="char:EOLhyphen"/>pected to come in his beſt dreſs, as an Angell of Light, and being diſcover'd in his old Antichriſtian forms, and in rude ranting, now to come with power, and ſeeming parity, ſhewing-ſigns and wonders, to ſeduce from the plain ſimplicity of the Goſpell of Chriſt, according to thoſe deſcriptions of his coming and work<g ref="char:EOLhyphen"/>ing,</hi> 2 Theſſ. 2.8, 9. Mar. 13.22. 2 Cor. 11.3.14. <hi>and if ſo, ought not all men to take heed how they believe every ſpirit or powerful motion to be of God? as alſo how they hear and follow every Prophet that comes in Sheeps cloathing and pretends to come with light? And are not thoſe in the way to be eaſily ſeduced who are ſo taken with the fair covering and outſide-carriage of perſons, as to imbrace their principles without a ſerious, ſpiritual Scripture tryall of them? Whereas we are commanded,</hi> if any man bring not this Doctrine receive him not, 2 John 10. <hi>And</hi> Solomon <hi>ſaith,</hi> The ſimple believeth every word, but the prudent man looketh well to his goings, <hi>Proverbs</hi> 14.15.</p>
+            <p>
+               <pb n="9" facs="tcp:118939:6"/>
+               <hi>Anſw.</hi> The Word of God in whom ever it is ſpoken, is of equall authority to the end for which it goeth forth, and he is the ſame that ever he was, in whom he is according to their meaſures: but that we eſteem any of our ſayings with e<g ref="char:EOLhyphen"/>quall authority with the ſayings of God, is falſe, and it is thy ſelf, whoſe ſaying agreeth not with Scripture, who art telling of a written Word; and doſt not thou ſhew thy envy againſt the authority of Chriſt and thoſe that obey him, who would ſlander travelling up and down far and near, to the wearying of the fleſh, at the obedience of the voice of the Lord, and this thou ſlanders with neglecting rela<g ref="char:EOLhyphen"/>tions, and to be contrary to the Scriptures; haſt thou not here ſufficiently ſhewed thy blindneſs, as touching both ſpirit and letter? Is it contrary to the Scripture to leave all and follow Chriſt? Or was there ever a Diſciple of his that did not? Or can ſuch be his Diſciples who doth not? How hath thy imaginations blinded thee? ſtop thy mouth for ſhame; art thou talking of following the Lamb, who wilt nei<g ref="char:EOLhyphen"/>ther do it thy ſelf, nor ſuffer others: Did not the Miniſters of Chriſt make proof of themſelves, in wandering in neceſſities, in diſtreſſes, afflictions, watchings, faſtings, tumults and impriſonments: Did they not wander to and fro in hunger and nakedneſs, having no certain dwelling place; Is this now become contrary to the Scriptures with thee; And have not the Prophets of the Lord been cauſed to ſtrip themſelves naked, as ſignes to the wicked genrations; And doſt thou now prefer the Papiſts before this: And doeſt thou charge the Servants of the Lord to glory in this; Couldſt thou glory in it thy ſelf, to leave all and ſuffer theſe things for the name of Chriſt; it is much eaſier with the fleſh to ſit ſtill in thy ha<g ref="char:EOLhyphen"/>bitation, and accuſe them that do; the Papiſts and thee ſute well in this, in your wil-ſhorſhip, but little knoweth either of you what it is to be guideded contrary to your wills, by the Spirit of God; you are none of thoſe children who are for ſigns and wonders; Is this the end of your pulling off your pride of Apparell, thereby to take advantage to ſtrike at the whole obedience to Chriſt in greater things, and ſay they are contrary to the Scriptures, which the Scriptures do witneſs a<g ref="char:EOLhyphen"/>gainſt you? Is not this the old Deceiver thou art telling of, who is changing your ſhape, and now dreſſing you without Ribbans, who formerly was dreſſing you up with them in your rude ranting, and is now coming in a ſeeming purity, but with more miſchief againſt the ſimplicitie of the Goſpel, &amp; all thoſe are in the way to be eaſily ſeduced, who are ſo ſoon taken with your fair covering and out<g ref="char:EOLhyphen"/>ſide-carriage, but they that have the light in them, and that ſpirit that tryeth all things, will not own you the ſooner for your feigned humility with all this poyſon at the bottome, but if you will be owned with the Children of Light, who jud<g ref="char:EOLhyphen"/>geth not according to the outward appearance, then muſt you own that which waſheth the inſide, that the old leaven and venome of the Serpent may be pur<g ref="char:EOLhyphen"/>ged out, that old Accuſer of the Brethren, who yet ſits in the Temple of God, pleading for his Kingdom of ſin and imperfection, and againſt the obedience to Chriſt in them that follow him; yea, againſt the living obedience of thoſe from whom he hath taken up the imitation, by which he makes a fair ſhew in the fleſh, glorying in appearance but not in the heart, and therefore ſtriketh at the Light within, and the ſpirit of truth there, that if by any means he may keep the heart though he looſe the Ribbans, and ſo make a boaſt of an outſide.</p>
+            <p>
+               <pb n="10" facs="tcp:118939:7"/>
+And thou askeſt another queſtion in thy book, whether this People (meaning the Quakers witneſſing againſt pride) ſtanding up to plead for the Spirit, and alſo for re<g ref="char:EOLhyphen"/>forming in habit, and ſome other good things at this time, may not have in it a deſign of Satan, to bring up an evil report upon thoſe good things, and the perſons that practiſe and ſeek to promote them; may we not (ſayeſt thou) look at this as a ſtumbling block caſt in the way to hinder this good work, by the enemy of man, who leaves no way unattempred to ſtir up the minds of men to preju<g ref="char:EOLhyphen"/>dice againſt truth. I ſay, if pleading for the Spirit, refor<g ref="char:EOLhyphen"/>ming in habit, and other good things, be good things, as thou ſay'ſt they are, (which the <hi>Quakers</hi> plead for, and practiſe at this time) then out of thine owne mouth bee thou judged, that thou art he that is in that deſign of Sa<g ref="char:EOLhyphen"/>tan, to bring up an evil report upon thoſe good things, and the perſons that practiſe and ſeek to promote them, and this is the way thou art attempting, to ſtir up the mindes of men to prejudice againſt the truth; may not all ſee, that ſome of you who are called, <hi>Anabaptiſts,</hi> who of late have been provoked to caſt off ſome of your pride. (out<g ref="char:EOLhyphen"/>wardly) by thoſe you call <hi>Quakers,</hi> being you could not maintain it with Scripture, now are you preaching down pride of envy, againſt their perſons, who have teſtified a<g ref="char:EOLhyphen"/>gainſt it in you, as well as in the reſt of the World, (yet however we rejoyce, that pride is preached down) which though you had the Scriptures before, yet could not bee provoked by them thereto, but have been the Ring-lead<g ref="char:EOLhyphen"/>ers of Pride, of all-ſeeming religious People in the Nati<g ref="char:EOLhyphen"/>on: And this I ſay to thee, and the reſt of you, who are making a fair ſhow in the fleſh, and would glory in ap<g ref="char:EOLhyphen"/>pearance, thereby to deſpiſe the Quakers, you have a great
+<pb n="11" facs="tcp:118939:7"/>deal more to deny beſides putting off your outward pride in apparel; if you will either imitate the <hi>Quakers</hi> or an<g ref="char:EOLhyphen"/>ſwer the Scriptures, and the practice of the Saints there<g ref="char:EOLhyphen"/>in recorded: Is there not the ſame ground in Scripture to deny reſpect of perſons, and ceaſe worſhipping one ano<g ref="char:EOLhyphen"/>ther, and to hold faſt the form of ſound words, without reſpect of perſons, not to give flattering titles to men, whereby the proud is exalted, and the poor deſpiſed? doth not this ariſe from the ſame ground with pride in apparel, and bring forth the ſame effects, which they that have obſerved the command of Chriſt and his Apoſtles have ever avoided? Is not the ſame that commanded his Mini<g ref="char:EOLhyphen"/>ſters to go teach all Nations, whereupon they went into the Synagogues and Idol-Temple to cry down their falſe worſhip and to call out of them? And did not they preach the Goſpel in ſtreets and Markets? Was not they beat in the Synagogues and halled before Rulers? Was they not wanderers to and fro, having no certain dwelling place? Is there not the ſame command to ſue no man at the Law, but if any man take away thy Cloak let him have thy Coat alſo? Take no thought for the morrow; give to him that asketh, and lend, asking nothing again; and much more ſuch like plain commands in Scipture, which might be mentioned, were not the Croſs too great for you to i<g ref="char:EOLhyphen"/>mitate, which you ought to do and teach to others to ob<g ref="char:EOLhyphen"/>ſerve; till then ceaſe your boaſting and glorying in outward appearance: And could you do all this and much more by imitation, and not in obedience to the Light, and by the power of the ſpirit; in the day of account it will but be found ſelf-righteouſneſs, when enquirie ſhall be made, Who hath required theſe things at your hands? So to the Light of Chriſt turn your mindes, which will let you ſee
+<pb n="12" facs="tcp:118939:8"/>the ſeat of preſumption upon a feigned humilitie and will-worſhip, which findes no acceptance with God, nei<g ref="char:EOLhyphen"/>ther wil it carry through the whole obedience, but puffs up the minde for one thing, in a ſelf-exaltation and deſpi<g ref="char:EOLhyphen"/>ſing of others; and as to the Light of Chriſt you keep your mindes, you will come to ſee that, that which condemns one ſin condemns all; and that which leadeth into one truth leads into all truth, and gives power to walk there<g ref="char:EOLhyphen"/>in: So the Miniſtration of the ſpirit giveth life, which keeps down the boaſter, but the litteral knowledge puffs up and ſo killeth; ſo the Law of the ſpirit of life, which is in Chriſt Jeſus, makes free from the Law of ſin and death to thoſe that walk in Spirit. If you can receive this you may, and let the Light in all your conſciences anſwer thereto, which ſhal witneſs me, when the book is opened, a lover of your ſouls.</p>
+            <closer>
+               <signed>James Nayler.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:118939:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
